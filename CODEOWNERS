@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @eduxcode
+/src/backend/database.py      @eduxcode
+/src/backend/routers/auth.py  @eduxcode
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @eduxcode
